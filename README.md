@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Laryssa Gabriela
 
-- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas
+
 
 
 <div align="center">
