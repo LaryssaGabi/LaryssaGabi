@@ -1,12 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Laryssa. And I'm passionate about the world of programming!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-
-💻 I've started my studies with programming in August.\
-🚀 I have a base in java and I'm learning HTML\
-:pencil2: I'm second period of Analysis and Systems Development
-
+### <p>"Hello, I'm Laryssa and I'm passionate about the world of programming!"</p>
 
 
 
@@ -16,8 +8,11 @@
 </div>
   
  <div style="display: inline_block"><br>
- <img align="center" alt="Laryssa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"">
- <img align="center" alt="Laryssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Laryssa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"">
+  <img align="center" alt="Laryssa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Laryssa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Laryssa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
           
 </div>
