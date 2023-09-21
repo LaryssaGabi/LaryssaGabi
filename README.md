@@ -1,4 +1,6 @@
-### Olá! Eu sou a Laryssa Gabriela
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Laryssa. And I'm passionate about the world of programming!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 
 💻 I've started my studies with programming in August.\
