@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nodejs,styledcomponents,mysql,figma,vscode,github&theme=dark" />
 
 
-## About me
+## About me:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Laryssa Gabriela and I am a Frontend Developer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25"  height="25" /> I'm studying Systems Analysis and Development. <br/>
