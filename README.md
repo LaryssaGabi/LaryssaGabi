@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Laryssa!  
+# 👋 Hello, I'm Laryssa!   
   
 🚀 Passionate about technology and always eager to learn new things in the world of programming!  
 
