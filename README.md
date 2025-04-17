@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 My Skills  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nodejs,styledcomponents,mysql,figma,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,nodejs,styledcomponents,mysql,figma,vscode,github&theme=dark" /> 
 
 ---
 
